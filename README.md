@@ -22,4 +22,4 @@ with statistical hypothesis testing and daily conversion trends.
 - Matplotlib, Seaborn
 
 ## Dashboard
-- Tableau Public: https://public.tableau.com/views/ABTestingAnalysisforE-CommerceCheckout/Dashboard1
+- Tableau Public: https://public.tableau.com/views/ABTestingAnalysisforE-CommerceCheckout/ABTestingAnalysisforE-CommerceCheckout
